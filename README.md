@@ -4,5 +4,5 @@
 ## TODOS
  - Connect to the Github API [v]
  - Read the data [v]
- - Parse the data
- - Print the data out
+ - Parse the data [v]
+ - Print the data out [v]
