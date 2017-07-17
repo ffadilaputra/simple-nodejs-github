@@ -3,6 +3,6 @@
 
 ## TODOS
  - Connect to the Github API [v]
- - Read the data
+ - Read the data [v]
  - Parse the data
  - Print the data out

@@ -27,7 +27,11 @@ let request = https.request(options, (response) => {
   })
 
   response.on('end', ()=> {
-      console.log(body)
+
+  // TODO  : Parse the data
+      let profile = JSON.parse(body)
+      console.log(profile)
+      console.log(typeof profile);
   })
 
 })
@@ -41,9 +45,4 @@ request.on('error',(e) => {
 })
 
 
-
-
-
-
-// TODO  : Parse the data
 // TODO  : Print the data out
