@@ -2,7 +2,7 @@
 :squid: Learn nodejs and github api
 
 ## TODOS
- - Connect to the Github API [v]
- - Read the data [v]
- - Parse the data [v]
- - Print the data out [v]
+ * [x] Connect to the Github API
+ * [x] Read the data
+ * [x] Parse the data
+ * [x] Print the data out
